@@ -1,0 +1,6 @@
+
+*
+java:S1700"Rename field "price"(÷ºùÆ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µÏÇ˜
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
